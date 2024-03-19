@@ -7,4 +7,4 @@ You can click in the center of the calibrator to display a zoomed in view of tha
 
 View the Interactive Map here
 
-[Starflight II Interactive Starmap](Starflight2InteractiveMap/main/Starflight%202%20-%20Trade%20Routes%20of%20the%20Cloud%20Nebula%20-%20Interactive%20Starmap.html)
+[Starflight II Interactive Starmap](https://digitoxin1.github.io/Starflight2InteractiveMap/Starflight%202%20-%20Trade%20Routes%20of%20the%20Cloud%20Nebula%20-%20Interactive%20Starmap.html)
