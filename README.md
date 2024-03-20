@@ -1,3 +1,4 @@
+# Starflight 2 Interactive Star Map
 This is an html based interactive star map for Starflight 2: Trade Routes of the Cloud Nebula.
 
 It is a self contained .html file and can be launched in any modern browser.
